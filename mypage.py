@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Configurações iniciais
-st.set_page_config(page_title="Meus GIFs", page_icon=":camera_flash:")
+st.set_page_config(page_title="Akara page's", page_icon=":camera_flash:")
 
 # Título do site
 st.title("App dedicado ao ciclone Akará")
