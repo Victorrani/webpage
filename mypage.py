@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Configurações iniciais
-st.set_page_config(page_title="Página de Ciclones", page_icon=":cyclone:")
+st.set_page_config(page_title="South Atlantic Cyclones", page_icon=":cyclone:")
 
 # Título principal
 st.title("Ciclones Atlântico Sul")
